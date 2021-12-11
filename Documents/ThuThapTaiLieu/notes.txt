@@ -1,0 +1,14 @@
+Mỗi ngày các trạm sẽ tổng hợp F0 gởi anh file chi tiết này
+[Tập tin: Tong Hop 04-12-2021.xlsx]
+ở cái cột điều trị tại nhà sẽ có 3 trạng thái khi import
+	1: Điều trị tại nhà, 2: Chờ đưa đi BV, 3: Đã đi BV
+	Yêu cầu: Import vô theo từng trạm (trung tâm làm)
+	Khi import vô thì đối với các trường hợp điều trị tại nhà thì cộng luôn số ngày điều trị để tính luôn ngày kết thúc điều trị dự kiến
+	Các trạm có thể coi danh sách của trạm mình. Được phép thêm sinh hiệu, gia hạn ngày kết thúc, kết thúc điều trị và in giấy xác nhận (theo mẫu). Các thông tin khác chỉ có trung tâm được phép chỉnh để đảm bảo dữ liệu
+
+Quên cái mẫu nhập vô anh sẽ kêu nó bổ sung thêm cột tiêm vắc xin
+để sau này thống kê nó dễ
+Chỗ mà đo sinh hiệu hàng ngày á
+Em cho chức năng copy luôn
+Vì các ngày hầu như là giống nhau
+Trường hợp nào khác thì sẽ chỉnh tay
